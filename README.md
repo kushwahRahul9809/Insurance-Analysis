@@ -184,22 +184,27 @@ Northeast
 
 Numerical Distributions
 
+<img width="2140" height="1417" alt="numerical_distributions" src="https://github.com/user-attachments/assets/29cb62c2-699c-4fd0-8754-f629d41d0262" />
 
 
 Sex Distribution
 
+<img width="1241" height="877" alt="sex_distribution" src="https://github.com/user-attachments/assets/1c7bd169-7cb9-4fc1-b532-6be39afb55b7" />
 
 
 Smoker Distribution
 
+<img width="1241" height="877" alt="smoker_distribution" src="https://github.com/user-attachments/assets/4702ca1a-a338-4945-9e57-158f05ed3ea5" />
 
 
 Correlation Heatmap
 
+<img width="1367" height="1059" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/5fe93d4f-a7a4-4fde-9242-42c583631899" />
 
 
 Boxplots
 
+<img width="2141" height="1417" alt="boxplots" src="https://github.com/user-attachments/assets/3e71da30-522e-48fe-9e42-eada59721aba" />
 
 
 GitHub image links: The README uses relative image paths such as images/correlation_heatmap.png. After uploading the images folder to the same GitHub repository, GitHub will automatically render these images in the README.
